@@ -31,6 +31,3 @@ Here are some ideas to get you started:
 - Portfolio: [aanand.dev](https://aanand.dev/)
 - LinkedIn: [linkedin.com/in/anmolaanand](https://www.linkedin.com/in/anmolaanand/)
 - Codeforces: [codeforces.com/profile/space-pirate](https://codeforces.com/profile/space-pirate)
-```
-
-Feel free to customize the information as needed. Good luck with your endeavors! 🚀

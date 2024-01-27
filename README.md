@@ -27,22 +27,13 @@ Here are some ideas to get you started:
 
 ## Experience:
 
-### Petabyte-Scale Search Engines Developer @Goldman Sachs (3 Years)
-- Developed natural language, petabyte-scale distributed search engines for e-communications and financial datasets
-- Expertise in Information Retrieval Algorithms, Apache Hadoop, MapReduce, and Distributed Computing
+- Petabyte-Scale Search Engines Developer @Goldman Sachs (3 Years)
 
-### Automotive Vision Internship @Magna International (3 Semesters)
-- Focused on solving vision problems in the automotive sector
-- Technologies used: PyTorch, CNNs, Node.js, React, Azure, Docker
+- Automotive Vision Internship @Magna International (3 Semesters)
 
-### Open Source Contributions @[DIVE Lab](https://github.com/divelab/DIG)
-- Contributed Graph Augmentation methods to DIG (DIVE into Graphs), an open-source Python library for Graph Deep Learning
-- Skills in Graph Neural Networks and PyTorch Geometric
+- Graph Deep Learning Research and Open Source Contributions @[DIVE Lab](https://github.com/divelab/DIG)
 
-### Passionate About Math and Algorithms
-- Competitive coding on Codeforces
-- Represented IIT at ACM-ICPC
-- Engaged member of the Programming and Algorithms Club at IIT
+- Passionate About Math and Algorithms
 
 ## Profiles:
 

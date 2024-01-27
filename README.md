@@ -17,11 +17,6 @@ Here are some ideas to get you started:
 
 🎓 Bachelor’s and Master’s in Computer Science
 
-🌟 Diverse Work Experience:
-- Full Stack Development
-- Big Data
-- Machine Learning
-
 🚀 Open to roles in Software Engineering, Machine Learning, or Data Science starting May 2024. If you have opportunities or insights, feel free to reach out!
 
 ## Experience:

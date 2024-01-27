@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 🎓 Bachelor’s and Master’s in Computer Science
 
 🌟 Diverse Work Experience:
-
 - Full Stack Development
 - Big Data
 - Machine Learning
@@ -28,11 +27,8 @@ Here are some ideas to get you started:
 ## Experience:
 
 - Petabyte-Scale Search Engines Developer @Goldman Sachs (3 Years)
-
 - Automotive Vision Internship @Magna International (3 Semesters)
-
 - Graph Deep Learning Research and Open Source Contributions @[DIVE Lab](https://github.com/divelab/DIG)
-
 - Passionate About Math and Algorithms
 
 ## Profiles:

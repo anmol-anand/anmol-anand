@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Anmol Anand [he/him]
 
-🎓 Bachelor’s and Master’s in Computer Science
+🎓 Master’s and Bachelor’s in Computer Science
 
 💬 Open to roles in Software Engineering, Machine Learning, or Data Science starting June 2024. If you have opportunities or insights, please reach out at [anmol-anand@outlook.com](mailto:anmol-anand@outlook.com)
 

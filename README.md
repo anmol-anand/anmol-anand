@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🎓 Master’s and Bachelor’s in Computer Science
 
-💬 Open to roles in Software Engineering, or Machine Learning. If you have opportunities or insights, please reach out at [anmol-anand@outlook.com](mailto:anmol-anand@outlook.com)
+💬 Open to roles in Machine Learning, Software Engineering, or Quant. If you have opportunities or insights, please reach out at [anmol-anand@outlook.com](mailto:anmol-anand@outlook.com)
 
 ## Experience:
 
@@ -28,6 +28,5 @@ Here are some ideas to get you started:
 
 ## Profiles:
 
-- Portfolio: [aanand.dev](https://aanand.dev/)
 - LinkedIn: [linkedin.com/in/anmolaanand](https://www.linkedin.com/in/anmolaanand/)
 - Codeforces: [codeforces.com/profile/space-pirate](https://codeforces.com/profile/space-pirate)

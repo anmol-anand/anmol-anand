@@ -2,7 +2,7 @@
 
 ## Experience:
 
-- Machine Learning Engineer for Compliance Surveillance Modeling @Goldman Sachs (1+ Year)
+- ML Engineer for Compliance Surveillance Modeling @Goldman Sachs (1+ Year)
 - Search Engine Developer for Financial and E-communications datasets @Goldman Sachs (3 Years)
 - Automotive Vision Internship @Magna International (3 Semesters)
 - Graph Deep Learning Research and Open Source Contributions @[DIVE Lab](https://github.com/divelab/DIG)
